@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Friska a.k.a @mataharii
-- 👀 I’m interested in anything code
+- 👀 I’m interested in anything related to FE Development.
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on react
 
