@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Friska a.k.a @mataharii
+- 👋 Hi, I’m Roya a.k.a @mataharii
 - 👀 I’m interested in anything related to FE Development.
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on react
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JavaScript
 
 
 <!---
